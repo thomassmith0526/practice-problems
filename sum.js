@@ -37,3 +37,4 @@ return sum;
 }
 console.log(calSumArray([10,20,30]))
 calSumArray()
+
