@@ -21,3 +21,9 @@ const array = [1, 3, 10, 11, 14];
 const goal = 13;
 const result = twoSum(array, goal);
 console.log(result);
+
+function round(x) {
+    return Math.ceil(x /5) * 5;
+}
+var n = 73;
+console.log(round(n));
